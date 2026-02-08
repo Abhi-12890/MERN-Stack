@@ -8,6 +8,4 @@ app.get("/", (req, res) => {
 const PORT = 5000;
 app.listen(PORT, () => {
   console.log(`Server is running at Port: ${PORT}`);
-  console.log("Hello my name is Abhishek kumar.")
-
 })
